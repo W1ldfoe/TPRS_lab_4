@@ -12,5 +12,5 @@ Netherlands 1 1 2 2
 Belgium 2 2 4 4
 2
 Netherlands 1 1 2 2
-Belgium 1 4 2 5
+Belgium 1 3 2 5
 0
